@@ -1,3 +1,0 @@
-/home/kartikey_patel/Desktop/projects/vcs/build/CMakeFiles/vcs.dir
-/home/kartikey_patel/Desktop/projects/vcs/build/CMakeFiles/edit_cache.dir
-/home/kartikey_patel/Desktop/projects/vcs/build/CMakeFiles/rebuild_cache.dir
