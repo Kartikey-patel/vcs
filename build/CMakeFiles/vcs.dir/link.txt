@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -Wl,--dependency-file=CMakeFiles/vcs.dir/link.d CMakeFiles/vcs.dir/src/main.cpp.o CMakeFiles/vcs.dir/src/Repository.cpp.o CMakeFiles/vcs.dir/src/ObjectStore.cpp.o CMakeFiles/vcs.dir/src/Hasher.cpp.o CMakeFiles/vcs.dir/src/Index.cpp.o CMakeFiles/vcs.dir/src/AddCommand.cpp.o -o vcs  -lcryptopp
